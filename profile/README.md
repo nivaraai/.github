@@ -1,5 +1,7 @@
 ## START HERE
 
+![GitHub](https://img.shields.io/badge/Hupry-It's%20time%20for%20privacy-C49D7E)
+
 ### Why We Exist
 
 Hupry [HUMAN_PRivacY] is a groundbreaking Privacy and AI Research firm dedicated to safeguarding our most valuable data: ourselves. Our goal is to deliver data solutions that are secure, usable, and useful in tackling critical global concerns like sustainability, health, and regenerative finance. By using the power of AI and blockchain, we are introducing the principles of Distributed Privacy Technology (DPT®).
