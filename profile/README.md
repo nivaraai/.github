@@ -4,7 +4,7 @@
 
 ### Why We Exist
 
-Hupry [HUMAN_PRivacY] is a groundbreaking Privacy and AI Research firm dedicated to safeguarding our most valuable data: ourselves. Our goal is to deliver data solutions that are secure, usable, and useful in tackling critical global concerns like sustainability, health, and regenerative finance. By using the power of AI and blockchain, we are introducing the principles of Distributed Privacy Technology (DPT®).
+Hupry [HUMAN_PRivacY] is a groundbreaking Privacy and Generative AI Research firm dedicated to safeguarding our most valuable data: ourselves. Our goal is to deliver data solutions that are secure, usable, and useful in tackling critical global concerns like sustainability, health, and regenerative finance. By using the power of AI and blockchain, we are introducing the principles of Distributed Privacy Technology (DPT®).
 
 ### Our Purpose
 
