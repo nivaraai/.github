@@ -14,9 +14,9 @@ Imagine a world where AI models are like local train stations, deeply rooted in 
 
 As a full-stack Generative AI company, we offer a comprehensive, end-to-end solution:
 
-Cutting-Edge Research: We're at the forefront of AI innovation, constantly pushing the boundaries of what's possible.
-Production-Ready Solutions: Our technologies aren't just theoretical – they're battle-tested and ready for real-world deployment.
-Full-Stack Integration: From data processing to model development, from infrastructure to deployment, we cover every aspect of the AI journey.
+- Cutting-Edge Research: We're at the forefront of AI innovation, constantly pushing the boundaries of what's possible.
+- Production-Ready Solutions: Our technologies aren't just theoretical – they're battle-tested and ready for real-world deployment.
+- Full-Stack Integration: From data processing to model development, from infrastructure to deployment, we cover every aspect of the AI journey.
 
 ### Your One-Stop Generative AI Shop
 
